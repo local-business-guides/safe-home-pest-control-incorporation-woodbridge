@@ -13,8 +13,8 @@
 - Wildlife rescue service
 
 ## Guides
-- [Choosing a pest control service near me](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/pest-control-service-near-me/): Searching for a pest control service near me? Learn what to ask and how to prepare for a pest inspection in Woodbridge, Ontario.
 - [Woodbridge Pest Control guide for homeowners](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/woodbridge-pest-control/): Woodbridge Pest Control guidance for spotting patterns, planning an inspection and reducing repeat problems at your Woodbridge, Ontario home.
+- [Choosing a pest control service near me](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/pest-control-service-near-me/): Searching for a pest control service near me? Learn what to ask and how to prepare for a pest inspection in Woodbridge, Ontario.
 - [pest control service provider Woodbridge homeowner guide](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/pest-control-service-provider-woodbridge/): Need a pest control service provider Woodbridge homeowners can contact? Learn what to prepare and ask before arranging treatment in Woodbridge.
 - [pest control service providers Woodbridge hiring checklist](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/pest-control-service-providers-woodbridge/): Compare pest control service providers Woodbridge residents can hire with questions about scope, instructions and prevention for your Woodbridge property.
 - [commercial pest control service Woodbridge](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/commercial-pest-control-service-woodbridge/): Compare commercial pest control service Woodbridge options, prepare your premises and ask practical questions before booking in Woodbridge.
@@ -24,6 +24,9 @@
 - [Wildlife rescue service Woodbridge](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/wildlife-rescue-service-woodbridge/): Wildlife rescue service Woodbridge homeowner guide. Learn what to prepare and ask about humane animal handling at your Woodbridge property.
 - [A Homeowner's Guide to pest control in woodbridge](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/pest-control-in-woodbridge/): Plan pest control in woodbridge with practical preparation tips and treatment questions for your Woodbridge home.
 
+## Newsroom
+- [Safe Home Pest Control Incorporation Shares Woodbridge Pest Control Resources](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/news/2026-10-21-safe-home-pest-control-incorporation-shares-woodbr/): Safe Home Pest Control Incorporation has released a Woodbridge Pest Control guide with video, podcast and SoundCloud audio formats. (2026-10-21)
+
 ## Pages
 - [Woodbridge Pest Control in Ontario](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/): Get practical pest treatment and humane wildlife help for your Woodbridge home or business, with prevention built into the plan. Call +1647-424-0235.
 - [About and Contact Safe Home Pest Control](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/about/): About Safe Home Pest Control Incorporation, Woodbridge.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/safe-home-pest-control-incorporation-woodbridge/news/rss.xml)
 - [Main resource site](https://safe-home-pest-woodbridge-on.localwebsites.chatgpt.site)
